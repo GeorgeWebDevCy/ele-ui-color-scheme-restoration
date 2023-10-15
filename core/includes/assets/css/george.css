@@ -1,0 +1,34 @@
+.elementor-panel #elementor-panel-header {
+    background-color:#94003c;
+    }
+    .elementor-control-dynamic-switcher-wrapper {
+    background-color:#cccccc;
+    }
+    #elementor-panel-elements-search-area {
+        background-color: #e7e9ec;
+    }
+    .elementor-panel .elementor-element {
+    background-color:#ffffff;
+    }
+    .elementor-panel {
+        background-color: #e7e9ec;
+    }
+    main#elementor-panel-content-wrapper * {
+        border-color: #cccccc;
+        color: black;
+    }
+    .elementor-control.elementor-control-separator-default {
+        border-top: solid 1px gray;
+        padding: 15px 20px;
+    }
+    .elementor-control-dimension-label {
+        color: black !important;
+    }
+    .elementor-panel #elementor-panel-saver-button-publish:not(.elementor-disabled) {
+        background-color: green;
+        color: white;
+    }
+    .elementor-button.e-primary {
+        background-color: green;
+        color: white;
+    }
